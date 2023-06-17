@@ -1,0 +1,7 @@
+body {
+    background-image: url(https://images3.alphacoders.com/104/1049718.jpg);
+    background-repeat: no-repeats;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    flex-wrap: wrap;
+}
